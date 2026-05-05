@@ -43,11 +43,11 @@ A visually appealing Instagram UI clone built with **React Native** and **Expo**
 
 
 **Home Screen**  
-![Home Screen](assets/image/home.png)
+![Home Screen](assets/images/home.png)
 
 **Search Screen**  
-![Search Screen](assets/image/search.png)
+![Search Screen](assets/images/search.png)
 
 **Profile Screen**  
-![Profile Screen](assets/image/profile.png)
+![Profile Screen](assets/images/profile.png)
 
