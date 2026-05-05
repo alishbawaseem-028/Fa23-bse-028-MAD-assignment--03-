@@ -25,22 +25,10 @@ A visually appealing Instagram UI clone built with **React Native** and **Expo**
 ##  Screens Included
 
 1. **Home Screen**
-   - Top header with Instagram logo
-   - Horizontal Stories scroll
-   - Vertical post feed with user info, images, and interactions
-
 2. **Search Screen**
-   - Search bar
-   - Masonry-style image grid
-
 3. **Profile Screen**
-   - Profile header with username and menu
-   - Profile picture and stats (Posts, Followers, Following)
-   - Bio section
-   - User posts grid
 
 ##  App Preview
-
 
 **Home Screen**  
 ![Home Screen](assets/images/home.png)
